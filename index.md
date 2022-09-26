@@ -21,8 +21,8 @@ has_children: false
 ***
 
 ## MIMO OFDM OMP
-This is a basic MIMO mmWave channel estimation simulation
-without considering the beam squint effect.
+This is a basic wideband MIMO mmWave channel estimation simulation
+without considering the beam squint effect for OFDM.
 - [Simulation Source (`.sim`)](MIMO_OFDM_OMP/MIMO_wideband.sim)
 - [Plain Text Report (`.rpt`)](MIMO_OFDM_OMP/OFDM_mmWave_CE_OMP_Simulation.rpt)
 - [PDF Report (`.pdf`)](MIMO_OFDM_OMP/OFDM_mmWave_CE_OMP_Simulation.pdf)
