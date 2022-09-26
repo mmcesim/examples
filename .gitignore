@@ -1,7 +1,1 @@
-*
-!.gitignore
-!LICENSE
-!*.md
-!*.pdf
-!*.sim
-!*.rpt
+.DS_Store
